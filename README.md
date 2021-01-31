@@ -1,5 +1,4 @@
 ## Welcome to GitHub Pages
-## Yu Hsin Cheng
 
 You can use the [editor on GitHub](https://github.com/HsinCheng530/HsinCheng530.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
