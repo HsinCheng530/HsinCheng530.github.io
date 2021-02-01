@@ -1,4 +1,4 @@
-# Yu，Hsin Cheng
+# YuHsin Cheng
 I am an undergraduate student in Electrical Engineering at National Taiwan University. 
 My research interest covers analog,digital integrated circuit design and Blockchain.
 Here are some of my projects and research, as well as Curriculum Vitae.
