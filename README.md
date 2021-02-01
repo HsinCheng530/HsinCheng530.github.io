@@ -1,5 +1,6 @@
 # Yu Hsin Cheng
-I am an undergraduate student of Electrical Engineering at National Taiwan University. Here are some of my projects and research, as well as Curriculum Vitae.
+I am an undergraduate student of Electrical Engineering at National Taiwan University. 
+Here are some of my projects and research, as well as Curriculum Vitae.
 
 <!--You can use the [editor on GitHub](https://github.com/HsinCheng530/HsinCheng530.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.-->
 
