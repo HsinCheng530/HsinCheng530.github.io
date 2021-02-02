@@ -9,7 +9,7 @@ Thank you for reading.
 -->
 
 # Curriculum Vitae
-[Github]
+
 
 # Current Research Topics
 * at Professor Tsung-Hsien Lin's laboratory 
@@ -25,6 +25,7 @@ Thank you for reading.
 通信實驗
 生醫工程實驗
 -->
+[Github](https://www.notion.so/Communication-Lab-Final-Project-3b83672895ca4a4597c7626ec7511a6b)
 
 <!--# Honors
 -->
