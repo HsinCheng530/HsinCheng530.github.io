@@ -17,7 +17,7 @@ Thank you for reading.
 ## Projects
 * **Carnot Engine Simulation**<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Wen-Ling Chua<br>
-Final Project in *Computer Programming*<br>
+Final Project in *Computer Programming 2018 Fall*<br>
 [Carnot Engine Simulation](https://github.com/HsinCheng530/Carnot-Engine-Simulation.git)
 
 * **Communication Lab**<br>
