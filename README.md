@@ -5,18 +5,25 @@ Here are some of my projects and research, as well as Curriculum Vitae.
 I will also show some notes taken during studying.
 Thank you for reading.
 
-# Publications
-悲慘喔沒東西
+<!--# Publications
+-->
 
 # Current Research Topics
-主要放專題的東西
+* at Professor Tsung-Hsien Lin's laboratory 
+  * current mirror OTA
+  * Curvature-Compensated BiCMOS Bandgap
+  * CMOS temperature sensor
+
 
 # Projects
-普物
+
+<!--普物
 通信實驗
 生醫工程實驗
+-->
 
-# Honors
+<!--# Honors
+-->
 
 # Competitions
 
