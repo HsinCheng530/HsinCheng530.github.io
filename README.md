@@ -15,18 +15,18 @@ Thank you for reading.
 [Analog IC Design Lab](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
 
 ## Projects
-* Carnot Engine Simulation<br>
+* **Carnot Engine Simulation**<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Wen-Ling Chua<br>
 Final Project in *Computer Programming*<br>
 [Carnot Engine Simulation]
 
-* Communication Lab<br>
+* **Communication Lab**<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
 Final Project in *Communication Lab 2020 Fall*<br>
 [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
 
 ## Competitions
-* LINE Fresh Hackathon<br>
+* **LINE Fresh Hackathon**<br>
 **Hsin-Cheng Yu**,Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
 [Emergency message](https://github.com/HsinCheng530/LINE-Fresh-Hackathon.git)
 
