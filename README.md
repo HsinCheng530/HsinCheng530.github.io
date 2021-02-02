@@ -17,10 +17,8 @@ Thank you for reading.
   * Current mirror OTA
   * Curvature-Compensated BiCMOS Bandgap
   * CMOS temperature sensor
-* Notes<br>
-[Two-stage OTA]
-[CMOTA]
-[Current-Shunt OTA]
+* Simulation Result for currrent research<br>
+[Analog IC Design Lab]
 
 
 ## Projects
