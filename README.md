@@ -25,7 +25,7 @@ Thank you for reading.
 通信實驗
 生醫工程實驗
 -->
-* Communication Lab<br>
+ Communication Lab<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
 Final Project in *Communication Lab 2020 Fall*<br>
 [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
@@ -33,7 +33,9 @@ Final Project in *Communication Lab 2020 Fall*<br>
 <!--# Honors
 -->
 
-# Competitions
+## Competitions
+* LINE Fresh Hackathon
+
 
 
 <!--You can use the [editor on GitHub](https://github.com/HsinCheng530/HsinCheng530.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
