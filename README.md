@@ -20,6 +20,11 @@ Thank you for reading.
 Final Project in *Computer Programming 2018 Fall*<br>
 [Carnot Engine Simulation](https://github.com/HsinCheng530/Carnot-Engine-Simulation.git)
 
+* **Self-propelled Car
+**Hsin-Cheng Yu**, Yi-Ting Wu, Si-Ying Chen, Wen-Ling Chua<br>
+Final Project in *Cornerstone EECS Design and Implementation 2019 Spring*<br>
+[Self-propelled Car]
+
 * **Communication Lab**<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
 Final Project in *Communication Lab 2020 Fall*<br>
