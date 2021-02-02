@@ -26,7 +26,9 @@ Thank you for reading.
 生醫工程實驗
 -->
 * Communication Lab
- [Hybrid quantum-classical Neural Network](https://www.notion.so/Communication-Lab-Final-Project-3b83672895ca4a4597c7626ec7511a6b)
+**Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen <br>
+Final Project in *Communication Lab 2020 Fall*
+ [Hybrid quantum-classical Neural Network]
 
 <!--# Honors
 -->
