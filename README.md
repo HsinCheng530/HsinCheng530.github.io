@@ -11,14 +11,15 @@ Thank you for reading.
 ## Curriculum Vitae
 
 
-## Current Research Topics
+## Current Research
 * At Professor Tsung-Hsien Lin's laboratory 
+* 
 * Research topics
   * Current mirror OTA
   * Curvature-Compensated BiCMOS Bandgap
   * CMOS temperature sensor
 * Simulation Result for current research<br>
-[<u>Analog IC Design Lab<u>](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
+[Analog IC Design Lab](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
 
 
 
@@ -30,7 +31,7 @@ Final Project in *Communication Lab 2020 Fall*<br>
 
 
 ## Competitions
-* <u>LINE Fresh Hackathon<u><br>
+<u>LINE Fresh Hackathon<u><br>
 **Hsin-Cheng Yu**,Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
 [Emergency message](https://github.com/HsinCheng530/LINE-Fresh-Hackathon.git)
 
