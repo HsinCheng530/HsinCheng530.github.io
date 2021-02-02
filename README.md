@@ -1,4 +1,4 @@
-# YuHsin Cheng
+# Yu,Hsin Cheng
 I am an undergraduate student in Electrical Engineering at National Taiwan University. 
 My research interest covers analog, digital integrated circuit design and Blockchain.
 Here are some of my projects and research, as well as Curriculum Vitae.
@@ -25,10 +25,10 @@ Thank you for reading.
 通信實驗
 生醫工程實驗
 -->
-* Communication Lab
-**Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen <br>
-Final Project in *Communication Lab 2020 Fall* <br>
- [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
+* Communication Lab<br>
+**Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
+Final Project in *Communication Lab 2020 Fall*<br>
+[Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
 
 <!--# Honors
 -->
