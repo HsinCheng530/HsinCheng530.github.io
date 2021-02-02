@@ -28,7 +28,7 @@ Thank you for reading.
 * Communication Lab
 **Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen <br>
 Final Project in *Communication Lab 2020 Fall*
- [Hybrid quantum-classical Neural Network]
+ [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
 
 <!--# Honors
 -->
