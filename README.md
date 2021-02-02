@@ -8,10 +8,10 @@ Thank you for reading.
 <!--# Publications
 -->
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 
-# Current Research Topics
+## Current Research Topics
 * at Professor Tsung-Hsien Lin's laboratory 
 * research topics
   * Current mirror OTA
@@ -19,13 +19,14 @@ Thank you for reading.
   * CMOS temperature sensor
 
 
-# Projects
+## Projects
 
 <!--普物
 通信實驗
 生醫工程實驗
 -->
-[Github](https://www.notion.so/Communication-Lab-Final-Project-3b83672895ca4a4597c7626ec7511a6b)
+* Communication Lab
+ [Hybrid quantum-classical Neural Network](https://www.notion.so/Communication-Lab-Final-Project-3b83672895ca4a4597c7626ec7511a6b)
 
 <!--# Honors
 -->
