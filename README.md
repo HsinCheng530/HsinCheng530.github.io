@@ -32,7 +32,7 @@ Final Project in *Communication Lab 2020 Fall*<br>
 
 ## Competitions
 * **LINE Fresh Hackathon**<br>
-**Hsin-Cheng Yu**,Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
+**Hsin-Cheng Yu**, Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
 [Emergency message](https://github.com/HsinCheng530/LINE-Fresh-Hackathon.git)
 
 
