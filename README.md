@@ -16,7 +16,7 @@ Thank you for reading.
 
 ## Projects
 * Carnot Engine Simulation<br>
-**Hsin-Cheng Yu**, Si-Ying Chen, Wen-Ling Chua
+**Hsin-Cheng Yu**, Si-Ying Chen, Wen-Ling Chua<br>
 Final Project in *Computer Programming*<br>
 [Carnot Engine Simulation]
 
