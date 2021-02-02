@@ -26,15 +26,15 @@ Thank you for reading.
 生醫工程實驗
 -->
 
-```
 Communication Lab
-*Hsin-Cheng Yu*, Si-Ying Chen, Chih-Ying Chen
-Final Project in _Communication Lab 2020 Fall_
+**Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen
+Final Project in *Communication Lab 2020 Fall*
 [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
-```
+
 
 ## Competitions
 * LINE Fresh Hackathon
+**Hsin-Cheng Yu**,Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung
 
 
 
