@@ -1,19 +1,12 @@
 # Yu,Hsin Cheng
 I am an undergraduate student in Electrical Engineering at National Taiwan University. 
 My research interest covers analog, digital integrated circuit design and Blockchain.
-Here are some of my projects and research, as well as Curriculum Vitae.
+Here are some of my projects and research.
 I will also show some notes taken during studying.
 Thank you for reading.
 
-<!--# Publications
--->
-
-## Curriculum Vitae
-
-
 ## Current Research
 * At Professor Tsung-Hsien Lin's laboratory 
-* 
 * Research topics
   * Current mirror OTA
   * Curvature-Compensated BiCMOS Bandgap
@@ -21,14 +14,11 @@ Thank you for reading.
 * Simulation Result for current research<br>
 [Analog IC Design Lab](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
 
-
-
 ## Projects
 * Communication Lab<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
 Final Project in *Communication Lab 2020 Fall*<br>
 [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
-
 
 ## Competitions
 * LINE Fresh Hackathon<br>
