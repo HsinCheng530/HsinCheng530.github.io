@@ -24,14 +24,14 @@ Thank you for reading.
 
 
 ## Projects
->>>* Communication Lab<br>
+* Communication Lab<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
 Final Project in *Communication Lab 2020 Fall*<br>
 [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
 
 
 ## Competitions
-_LINE Fresh Hackathon_<br>
+* LINE Fresh Hackathon<br>
 **Hsin-Cheng Yu**,Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
 [Emergency message](https://github.com/HsinCheng530/LINE-Fresh-Hackathon.git)
 
