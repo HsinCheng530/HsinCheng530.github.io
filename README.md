@@ -18,7 +18,7 @@ Thank you for reading.
   * Curvature-Compensated BiCMOS Bandgap
   * CMOS temperature sensor
 * Simulation Result for current research<br>
-[Analog IC Design Lab](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
+[<u>Analog IC Design Lab<u>](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
 
 
 
