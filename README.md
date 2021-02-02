@@ -15,7 +15,7 @@ Thank you for reading.
 [Analog IC Design Lab](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
 
 ## Projects
-* <u>Carnot Engine Simulation<u><br>
+* **Carnot Engine Simulation**<br>
 **Hsin-Cheng Yu**, Si-Ying Chen, Wen-Ling Chua<br>
 Final Project in *Computer Programming*<br>
 [Carnot Engine Simulation]
