@@ -33,9 +33,7 @@ Final Project in *Communication Lab 2020 Fall*<br>
 ## Competitions
 * LINE Fresh Hackathon
 **Hsin-Cheng Yu**,Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
-[Emergency message]
-
-
+[Emergency message](https://github.com/HsinCheng530/LINE-Fresh-Hackathon.git)
 
 
 <!--You can use the [editor on GitHub](https://github.com/HsinCheng530/HsinCheng530.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
