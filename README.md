@@ -17,8 +17,9 @@ Thank you for reading.
   * Current mirror OTA
   * Curvature-Compensated BiCMOS Bandgap
   * CMOS temperature sensor
-* Simulation Result for currrent research<br>
-[Analog IC Design Lab]
+* Simulation Result for current research<br>
+[Analog IC Design Lab](https://github.com/HsinCheng530/Analog-IC-Design-Lab.git)
+
 
 
 ## Projects
