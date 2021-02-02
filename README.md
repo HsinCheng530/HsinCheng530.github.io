@@ -13,7 +13,8 @@ Thank you for reading.
 
 # Current Research Topics
 * at Professor Tsung-Hsien Lin's laboratory 
-  * current mirror OTA
+* research topics
+  * Current mirror OTA
   * Curvature-Compensated BiCMOS Bandgap
   * CMOS temperature sensor
 
