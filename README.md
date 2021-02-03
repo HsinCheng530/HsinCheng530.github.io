@@ -1,6 +1,6 @@
 # Yu,Hsin Cheng
 I am an undergraduate student in Electrical Engineering at National Taiwan University. 
-My research interest covers analog, digital integrated circuit design and Blockchain.
+My research interest covers Analog, Digital Integrated Circuit Design and Blockchain.
 Here are some of my projects and research.
 I will also show some notes taken during studying.
 Thank you for reading.
