@@ -16,23 +16,23 @@ Thank you for reading.
 
 ## Projects
 * **Carnot Engine Simulation**<br>
-**Hsin-Cheng Yu**, Si-Ying Chen, Wen-Ling Chua<br>
+**Hsin-Cheng Yu**, Sih-Ying Chen, Wen-Ling Chua<br>
 Final Project in *Computer Programming 2018 Fall*<br>
 [Carnot Engine Simulation](https://github.com/HsinCheng530/Carnot-Engine-Simulation.git)
 
 * **Self-propelled Car**<br>
-**Hsin-Cheng Yu**, Yi-Ting Wu, Si-Ying Chen, Wen-Ling Chua<br>
+**Hsin-Cheng Yu**, Yi-Ting Wu, Sih-Ying Chen, Wen-Ling Chua<br>
 Final Project in *Cornerstone EECS Design and Implementation 2019 Spring*<br>
 [Self-propelled Car]
 
 * **Communication Lab**<br>
-**Hsin-Cheng Yu**, Si-Ying Chen, Chih-Ying Chen<br>
+**Hsin-Cheng Yu**, Sih-Ying Chen, Chih-Ying Chen<br>
 Final Project in *Communication Lab 2020 Fall*<br>
 [Hybrid quantum-classical Neural Network](https://github.com/HsinCheng530/Communication-Lab.git)
 
 ## Competitions
 * **LINE Fresh Hackathon**<br>
-**Hsin-Cheng Yu**, Pin-Yu Lin, Pin-Ying Wu, Chih-Ying Chen, Hsin-tsz Sung<br>
+**Hsin-Cheng Yu**, Pin-Yu Lin, Pin-Ying Wu, Sih-Ying Chen, Hsin-tsz Sung<br>
 [Emergency message](https://github.com/HsinCheng530/LINE-Fresh-Hackathon.git)
 
 
